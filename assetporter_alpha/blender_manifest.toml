@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "assetporter_alpha"
+version = "0.1.0"
+name = "Assetporter Alpha"
+maintainer = "EDIT"
+blender_version = "4.3.2"
+blender_version_min = "4.2.0"
+tagline = "asset importing tool"
+category = "Import-Export"
+type = "add-on"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
